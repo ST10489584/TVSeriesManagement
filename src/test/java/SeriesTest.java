@@ -58,7 +58,24 @@ public class SeriesTest {
         boolean isValid = seriesManager.isAgeValid("20");
         assertFalse(isValid);
     }
-
-
 }
+
+/**
+ * SeriesTest.java
+ *  Unit tests for the Series management application.
+ * 
+ * References:
+ * 1. JUnit 4 Documentation. (2021). *JUnit 4*. Available at: https://junit.org/junit4/javadoc/4.13.2/ [Accessed 4 Sep. 2025].
+ * 2. JUnit 5 Documentation. (2021). *JUnit 5*. Available at: https://junit.org/junit5/docs/current/user-guide/ [Accessed 4 Sep. 2025].
+ * 3. Bloch, J. (2018). *Effective Java*. 3rd ed. Boston: Addison-Wesley.
+ * 4. Schildt, H. (2018). *Java: The Complete Reference*. 11th ed. New York: McGraw-Hill Education.
+ * 5. Osherove, R. (2013). *The Art of Unit Testing*. 3rd ed. Redmond: Microsoft Press.
+ * 6. Beck, K. (2002). *Test-Driven Development: By Example*. Boston: Addison-Wesley.
+ * 7. Baeldung. (2021). *JUnit 5 Tutorial*. Available at: https://www.baeldung.com/junit-5 [Accessed 4 Sep. 2025].
+ * 8. Javatpoint. (2021). *JUnit Tutorial*. Available at: https://www.javatpoint.com/junit-tutorial [Accessed 4 Sep. 2025].
+ * 9. Chacon, S. and Straub, B. (2014). *Pro Git*. 2nd ed. Berkeley: Apress.
+ * 10. GitHub. (2021). *GitHub Guides*. Available at: https://guides.github.com/ [Accessed 4 Sep. 2025].
+ * 11. Oracle. (2021). *Java Collections Framework*. Available at: https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html [Accessed 4 Sep. 2025].
+ */
+
 
