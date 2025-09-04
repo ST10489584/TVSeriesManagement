@@ -91,3 +91,25 @@ public class Series {
         }
     }
 }
+/**
+References for Series.java, SeriesApp.java, SeriesModel.java:
+
+Books
+Bloch, J. (2018). Effective Java. 3rd ed. Boston: Addison-Wesley.
+
+Schildt, H. (2018). Java: The Complete Reference. 11th ed. New York: McGraw-Hill Education.
+
+Horstmann, C.S. (2019). Core Java Volume I: Fundamentals. 11th ed. Upper Saddle River: Prentice Hall.
+
+Horstmann, C.S. (2019). Core Java Volume II: Advanced Features. 11th ed. Upper Saddle River: Prentice Hall.
+
+ Websites
+Oracle. (2023). Java Documentation. Available at: https://docs.oracle.com/en/java/javase/ [Accessed 4 Sep. 2025].
+
+Baeldung. (2021). Introduction to Java Collections. Available at: https://www.baeldung.com/java-collections [Accessed 4 Sep. 2025].
+
+Javatpoint. (2021). Java Programming Tutorial. Available at: https://www.javatpoint.com/java-tutorial [Accessed 4 Sep. 2025].
+
+GeeksforGeeks. (2021). Object-Oriented Programming in Java. Available at: https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-java/ [Accessed 4 Sep. 2025].
+
+**/
